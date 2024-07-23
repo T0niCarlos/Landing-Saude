@@ -1,6 +1,6 @@
 Landing page criada para a área de saúde, seja médico ou clínica.
 
-#### Como rodar o projeto
+# Como rodar o projeto
 
 # Primeiros passos com o aplicativo Create React
 
