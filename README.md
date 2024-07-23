@@ -50,7 +50,6 @@ Você pode saber mais na [documentação sobre criação do aplicativo React](ht
 Para aprender o React, confira a [documentação do React](https://reactjs.org/).
 
 
-
 ### npm run build fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Esta seção foi movida para aqui: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/ create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
